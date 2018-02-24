@@ -1,0 +1,14 @@
+---
+title: "React Simple Blog"
+type: "challenge"
+description: "Build a simple blog application in React"
+tags: "javascript, react, react-forms, react-router"
+behaviors:
+  - react_on_node
+  - sinatra
+  - react_router
+  - react_testing
+ignore:
+- "node_modules/"
+- "react/coverage/"
+- "react-simple-blog.md"
